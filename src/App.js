@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import './App.css';
-import Buttons from "./component/Buttons";
-import Header from "./component/Header";
-import Seconds from "./component/Seconds";
+import Buttons from "./components/Buttons";
+import Header from "./components/Header";
+import Seconds from "./components/Seconds";
 
 function App() {
 const [time, setTime] = useState({hour: 0, minute: 0, seconds: 0});
