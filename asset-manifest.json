@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/testTaskTimer/static/css/main.28a96ee7.chunk.css",
-    "main.js": "/testTaskTimer/static/js/main.221adde1.chunk.js",
-    "main.js.map": "/testTaskTimer/static/js/main.221adde1.chunk.js.map",
+    "main.css": "/testTaskTimer/static/css/main.3ebb4c7a.chunk.css",
+    "main.js": "/testTaskTimer/static/js/main.971d0294.chunk.js",
+    "main.js.map": "/testTaskTimer/static/js/main.971d0294.chunk.js.map",
     "runtime-main.js": "/testTaskTimer/static/js/runtime-main.3ed2641a.js",
     "runtime-main.js.map": "/testTaskTimer/static/js/runtime-main.3ed2641a.js.map",
-    "static/js/2.20a08626.chunk.js": "/testTaskTimer/static/js/2.20a08626.chunk.js",
-    "static/js/2.20a08626.chunk.js.map": "/testTaskTimer/static/js/2.20a08626.chunk.js.map",
+    "static/js/2.11f17a09.chunk.js": "/testTaskTimer/static/js/2.11f17a09.chunk.js",
+    "static/js/2.11f17a09.chunk.js.map": "/testTaskTimer/static/js/2.11f17a09.chunk.js.map",
     "index.html": "/testTaskTimer/index.html",
-    "static/css/main.28a96ee7.chunk.css.map": "/testTaskTimer/static/css/main.28a96ee7.chunk.css.map",
-    "static/js/2.20a08626.chunk.js.LICENSE.txt": "/testTaskTimer/static/js/2.20a08626.chunk.js.LICENSE.txt"
+    "static/css/main.3ebb4c7a.chunk.css.map": "/testTaskTimer/static/css/main.3ebb4c7a.chunk.css.map",
+    "static/js/2.11f17a09.chunk.js.LICENSE.txt": "/testTaskTimer/static/js/2.11f17a09.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3ed2641a.js",
-    "static/js/2.20a08626.chunk.js",
-    "static/css/main.28a96ee7.chunk.css",
-    "static/js/main.221adde1.chunk.js"
+    "static/js/2.11f17a09.chunk.js",
+    "static/css/main.3ebb4c7a.chunk.css",
+    "static/js/main.971d0294.chunk.js"
   ]
 }
