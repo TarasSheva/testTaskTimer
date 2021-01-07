@@ -18,3 +18,33 @@ body {
   font-size: 50px;
   color: #ffffff;
 }
+.disp {
+  width: 400px;
+  height: 80px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: darkgray;
+  margin: 15px auto;
+  font-size: 45px;
+}
+.btn {
+  width: 90px;
+  height: 40px;
+  margin: 5px;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  text-transform: uppercase;
+}
+.btn:nth-child(1) {
+  background-color: rgb(0, 23, 100);
+}
+.btn:nth-child(2) {
+  background-color: rgb(129, 0, 0);
+}
+.btn:nth-child(3) {
+  background-color: rgb(98, 100, 0);
+}
+.btn:nth-child(4) {
+  background-color: darkgreen;
+}
